@@ -1,8 +1,8 @@
-# dependencies
-node_modules/
+# # dependencies
+# node_modules/
 
-# resume file (specific file)
-public/Siva_E_Resume.pdf
+# # resume file (specific file)
+# public/Siva_E_Resume.pdf
 
-# images folder (ONLY if you don't want to upload assets)
-src/assets/images/
+# # images folder (ONLY if you don't want to upload assets)
+# src/assets/images/
