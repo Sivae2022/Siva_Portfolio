@@ -42,8 +42,8 @@ const Hireme = () => {
             </a>
 
             <a
-  href="/Siva_E_Resume.pdf"
-  download="Siva_E_Resume.pdf"
+  href="https://drive.google.com/uc?export=download&id=1PsHZDAKjcJ-WvI6UsGlZF7drScYJ-fLN"
+  target="_blank"
   className="border border-cyan-600 px-6 py-2 rounded-lg hover:bg-cyan-600 transition"
 >
   Download CV
